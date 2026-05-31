@@ -1,0 +1,6 @@
+{
+  "name": "MedVault",
+  "description": "A patient-centered medical record system with decentralized access control, end-to-end encryption, and a transparent audit trail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
