@@ -1,3 +1,4 @@
+import "./lib/apiFallback";
 import { useState, useEffect, createContext, useContext, useRef } from "react";
 import { 
   Shield, 
