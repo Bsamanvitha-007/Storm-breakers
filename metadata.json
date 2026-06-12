@@ -1,6 +1,8 @@
 {
-  "name": "MedVault",
-  "description": "A patient-centered medical record system with decentralized access control, end-to-end encryption, and a transparent audit trail.",
+  "name": "Medvault",
+  "description": "this app is showing 404 error how to change that  the contact number is asking for +1 change that and explain pass phrase to user\n",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
